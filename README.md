@@ -135,3 +135,14 @@ To analyze crime patterns against women in Uttar Pradesh and provide actionable 
 ✅ *Crime Distribution* - Donut chart showing percentage breakdown  
 ✅ *Interactive Filters* - Year and district slicers for dynamic exploration  
 ✅ *Responsive Design* - Clean, professional layout with appropriate color scheme  
+
+
+## 📂 Repository Structure
+crime-women-analysis-uttar-pradesh/
+├── README.md                          # Project documentation
+├── dashboard/
+│   ├── dasg_page-001.jpg      # Dashboard image
+├── data/
+│   └── up_women_crime.csv             # Cleaned dataset
+└── notebooks/
+└── crime_against_women_analysis.ipynb            # Exploratory data analysis 
