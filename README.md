@@ -18,7 +18,7 @@ To analyze crime patterns against women in Uttar Pradesh and provide actionable 
 
 ## 📁 Dataset
 
-- *Source:* Kaggle - Uttar Pradesh Crime Data
+- *Source:* Kaggle - Crime Against Women 2001-2014(India)
 - *Time Period:* 2001 - 2014 (14 years)
 - *Geographic Coverage:* 70+ districts in Uttar Pradesh
 - *Records:* 1,032 data points
@@ -60,10 +60,9 @@ To analyze crime patterns against women in Uttar Pradesh and provide actionable 
 
 | Category | Tools |
 |----------|-------|
-| *Data Cleaning & EDA* | Python (pandas, numpy) |
+| *Data Cleaning & EDA* | Python (pandas) |
 | *Visualization* | Python (matplotlib, seaborn) |
 | *Dashboard* | Power BI Desktop |
-| *Database* | SQL (for queries) |
 
 ## 📈 Dashboard Features
 
