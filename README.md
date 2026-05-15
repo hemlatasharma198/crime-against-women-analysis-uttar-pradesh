@@ -132,10 +132,8 @@ To analyze crime patterns against women in Uttar Pradesh and provide actionable 
 
 ## 📂 Files in This Repository
 
-
-├── README.md                                     # Project documentation
-├── dasg_page-001.jpg                             # Dashboard image
-├── dasgf.pdf                                     # PDF export
-├── up_women_crime.csv                            # Cleaned dataset
-└── crime_against_women_analysis.ipynb            # Python notebook 
-
+- *README.md* - Complete project documentation
+- *dasg_page-001.jpg* - Dashboard screenshot (Power BI visual)
+- *dasgf.pdf* - Dashboard in PDF format for offline viewing
+- *up_women_crime.csv* - Cleaned dataset (2001-2014, 1032 records)
+- *crime_against_women_analysis.ipynb* - Python notebook with exploratory data analysis
