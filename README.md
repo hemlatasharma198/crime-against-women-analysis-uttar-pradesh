@@ -4,12 +4,6 @@
 
 Interactive Power BI dashboard analyzing 14 years of crime data across Uttar Pradesh to identify patterns in crimes against women and support data-driven safety planning.
 
-![Dashboard Preview](# 🚨 Crime Against Women Analysis - Uttar Pradesh (2001-2014)
-
-## 📊 Project Overview
-
-Interactive Power BI dashboard analyzing 14 years of crime data across Uttar Pradesh to identify patterns in crimes against women and support data-driven safety planning.
-
 ![Dashboard Preview](dasg_page-0001.jpg)
 
 ## 🎯 Objective
@@ -135,4 +129,13 @@ To analyze crime patterns against women in Uttar Pradesh and provide actionable 
 ✅ *Crime Distribution* - Donut chart showing percentage breakdown  
 ✅ *Interactive Filters* - Year and district slicers for dynamic exploration  
 ✅ *Responsive Design* - Clean, professional layout with appropriate color scheme  
+
+## 📂 Files in This Repository
+
+
+├── README.md                                     # Project documentation
+├── dasg_page-001.jpg                             # Dashboard image
+├── dasgf.pdf                                     # PDF export
+├── up_women_crime.csv                            # Cleaned dataset
+└── crime_against_women_analysis.ipynb            # Python notebook 
 
