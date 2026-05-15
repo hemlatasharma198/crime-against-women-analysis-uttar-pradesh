@@ -183,7 +183,7 @@ Download and open dasgf.pdf for the complete dashboard in PDF format
   ## 📧 Contact
 
 *[Hemlata Sharma]*
-- 💼 LinkedIn: [[linkedin.com/in/your-profile](https://www.linkedin.com/in/hemlata-sharma-8aa819369)]
+- 💼 LinkedIn: [(https://www.linkedin.com/in/hemlata-sharma-8aa819369)]
 - 📧 Email: hemlatasharma7011@gmail.com
 
 Open to feedback, collaboration, and opportunities in data analytics!
